@@ -2,7 +2,7 @@
 <p>Student Management System in Java Swing that fulfills basic CRUD operations related to addition, deletion, etc. of students.</p>
 <br>
 <h2>To Run</h2>
-<hr>
+
 <p>Download the file and open the file in Apache Netbeans.</p>
 <p>For database, create database name studentmanagement in your MySQL command line and type following line of code</p>
 <p>mysql -u root -p</p>
@@ -10,7 +10,7 @@
 <p>mysql -u username -p studentmanagement < studentmanagement.sql</p>
 <br>
 <h2>Screeshots</h2>
-<hr>
+
 <h3>Login Module</h3>
 ![image](https://github.com/subin-shk/Student-Management-System-in-Java-Swing/assets/162704899/505ede5f-a8a0-4d9b-9419-a9a3141fcefc)
 
